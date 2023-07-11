@@ -30,8 +30,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: https://github.com/AidanRJ1/Frontend-Mentor-Results_Summary
+- Live Site URL: https://aidanrj1.github.io/Frontend-Mentor-Results_Summary/
 
 ## My process
 
@@ -48,4 +48,4 @@ Explore border radius and css gradients further to simplify build method and rem
 
 ## Author
 
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
+- Frontend Mentor - [@AidanRJ1]([https://www.frontendmentor.io/profile/yourusername](https://www.frontendmentor.io/profile/AidanRJ1)https://www.frontendmentor.io/profile/AidanRJ1)
